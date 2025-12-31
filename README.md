@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Manoj Srinivasa 
-### Full-Stack Engineer | AI & Web3 Builder | 4x Hackathon Winner
+### Software Engineer | AI & Web3 Builder | 4x Hackathon Winner
 
 I am an enthusiastic builder who thrives on turning ambitious ideas into functional prototypes. I specialize in rapid development, leveraging AI and modern cloud architecture to move from concept to deployment at hackathon speed.
 
@@ -49,13 +49,11 @@ I am an enthusiastic builder who thrives on turning ambitious ideas into functio
 
 ### 📫 Let's Connect
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/manojsrinivasa/) `linkedin.com/in/manojsrinivasa/`
-
-<br />
-
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:manojsrinivasa98@gmail.com) `manojsrinivasa98@gmail.com`
-
----
-
-### 📊 My GitHub Stats
-![Manoj's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+<p>
+  <a href="https://www.linkedin.com/in/manojsrinivasa/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:manojsrinivasa98@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
