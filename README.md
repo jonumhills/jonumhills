@@ -6,7 +6,7 @@ I am an enthusiastic builder who thrives on turning ambitious ideas into functio
 ---
 
 ### 🏆 2024-2025 Hackathon Streak
-* **ParkPulse (AI & Blockchain)** – *Winner: ETHGlobal 2025, VTHacks13, BIT*
+* **ParkPulse (AI & Blockchain)** – *Winner: ETHGlobal 2025, VTHacks13, BIT, Hedera HelloFutureOrigin*
 * **ChargeHive (Blockchain App)** – *Winner: ETHDenver 2025*
 
 ---
