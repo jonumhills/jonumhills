@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Manoj Srinivasa 
-### Software Engineer | AI & Web3 Builder | 4x Hackathon Winner
+### Software Engineer | AI & Web3 Builder | 8x Hackathon Winner
 
 I am an enthusiastic builder who thrives on turning ambitious ideas into functional prototypes. I specialize in rapid development, leveraging AI and modern cloud architecture to move from concept to deployment at hackathon speed.
 
@@ -9,6 +9,8 @@ I am an enthusiastic builder who thrives on turning ambitious ideas into functio
 * **ParkPulse (AI & Blockchain)** – *Winner: ETHGlobal 2025, VTHacks13, BIT, Hedera HelloFutureOrigin*
 * **ChargeHive (Blockchain App)** – *Winner: ETHDenver 2025*
 * **Terratrace (AI for Government)** -- *Winner: c0mpiled-10/DC Hackathon*
+* **Snakr** -- *Winner: Consensus Miami 2026 Hackathon*
+* **Townhall** -- *Winner ADA Track: ETHDenver 2026*
 
 ---
 
