@@ -10,7 +10,7 @@ I am an enthusiastic builder who thrives on turning ambitious ideas into functio
 * **ChargeHive (Blockchain App)** – *Winner: ETHDenver 2025*
 * **Terratrace (AI for Government)** -- *Winner: c0mpiled-10/DC Hackathon*
 * **Snakr** -- *Winner: Consensus Miami 2026 Hackathon*
-* **Townhall** -- *Winner ADA Track: ETHDenver 2026*
+* **Townhall** -- *Winner ADI Track: ETHDenver 2026*
 
 ---
 
