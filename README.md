@@ -47,16 +47,3 @@ I am an enthusiastic builder who thrives on turning ambitious ideas into functio
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
-
----
-
-### 📫 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/manojsrinivasa/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:manojsrinivasa98@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
