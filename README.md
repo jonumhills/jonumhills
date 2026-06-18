@@ -11,6 +11,7 @@ I am an enthusiastic builder who thrives on turning ambitious ideas into functio
 * **Terratrace (AI for Government)** -- *Winner: c0mpiled-10/DC Hackathon*
 * **Snakr** -- *Winner: Consensus Miami 2026 Hackathon*
 * **Townhall** -- *Winner ADI Track: ETHDenver 2026*
+* **ZoneProof** -- *Winner of NoSDK Hedera Track: ETHGlobal NYC 2026*
 
 ---
 
